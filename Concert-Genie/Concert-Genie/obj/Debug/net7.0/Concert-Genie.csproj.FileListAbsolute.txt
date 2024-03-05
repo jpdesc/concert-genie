@@ -1,0 +1,7 @@
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.csproj.AssemblyReference.cache
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.AssemblyInfoInputs.cache
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.AssemblyInfo.cs
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.csproj.CoreCompileInputs.cache
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\descojac\concert-genie\Concert-Genie\Concert-Genie\obj\Debug\net7.0\Concert-Genie.MvcApplicationPartsAssemblyInfo.cache
