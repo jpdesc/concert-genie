@@ -1,33 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\descojac\\concert-genie\\Concert-Genie\\Concert-Genie\\Concert-Genie.csproj": {}
+    "/Users/jackdescombes/concert-genie/Concert-Genie/Concert-Genie/Concert-Genie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\descojac\\concert-genie\\Concert-Genie\\Concert-Genie\\Concert-Genie.csproj": {
+    "/Users/jackdescombes/concert-genie/Concert-Genie/Concert-Genie/Concert-Genie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\descojac\\concert-genie\\Concert-Genie\\Concert-Genie\\Concert-Genie.csproj",
+        "projectUniqueName": "/Users/jackdescombes/concert-genie/Concert-Genie/Concert-Genie/Concert-Genie.csproj",
         "projectName": "Concert-Genie",
-        "projectPath": "C:\\Users\\descojac\\concert-genie\\Concert-Genie\\Concert-Genie\\Concert-Genie.csproj",
-        "packagesPath": "C:\\Users\\descojac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\descojac\\concert-genie\\Concert-Genie\\Concert-Genie\\obj\\",
+        "projectPath": "/Users/jackdescombes/concert-genie/Concert-Genie/Concert-Genie/Concert-Genie.csproj",
+        "packagesPath": "/Users/jackdescombes/.nuget/packages/",
+        "outputPath": "/Users/jackdescombes/concert-genie/Concert-Genie/Concert-Genie/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\descojac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jackdescombes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.313\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.313\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
         }
       }
     }

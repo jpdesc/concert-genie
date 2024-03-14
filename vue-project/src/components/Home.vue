@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>Hello</div>
+    <div></div>
   </div>
 </template>
 
@@ -16,6 +16,7 @@
       '/api/spotify/top-artists'
     );
     topArtists.value = response.data;
+    console.log()
   });
 
 
@@ -24,5 +25,6 @@
 
 
 <style scoped>
+
 
 </style>
