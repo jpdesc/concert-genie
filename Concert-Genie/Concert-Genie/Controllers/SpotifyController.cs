@@ -1,12 +1,26 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace Concert_Genie.Controllers
 {
-    [HttpGet]
-    [Route("api/spotify/authenticate")]
-    public IActionResult Authenticate()
+    [ApiController]
+    [Route("Api")]
+    public class ApiController : Controller
     {
-        var spotifyAuthLink = $"https://accounts.spotify.com/authorize?client_id={clientId}&response_type=code&redirect_uri={redirectUri}&scope=user-top-read";
-        return Redirect(spotifyAuthLink);
+        private readonly IConfiguration _configuration;
+        public ApiController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
+        [HttpGet("GetAccessToken")]
+        public ActionResult GetAccessToken()
+        {
+            var baseUri = _configuration["SpotifyTokenUri"];
+            return Redirect(baseUri);
+        }
     }
+
+
+
 }
